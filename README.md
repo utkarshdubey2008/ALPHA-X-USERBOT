@@ -51,4 +51,4 @@
 </p>
 
 
--   ⚜️[Team 𝙰𝙻𝙿𝙷𝙰 ](https://t.me/team_alpha_x)
+-   ⚜️[ ɬɛąɱ ɖ3۷ıƖ ](https://t.me/team_alpha_x)
