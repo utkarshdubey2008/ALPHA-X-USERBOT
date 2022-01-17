@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/883f837877a4804827cac.jpg" alt=D3KRISH">
+  <img src="https://telegra.ph/file/aaf06f40fac03f9b633f6.jpg" alt=adarsh">
 
 
 ## 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 🚀
