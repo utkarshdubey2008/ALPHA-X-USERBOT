@@ -11,9 +11,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TEAM-D3VIL/D3vilBot/",
-  "website": "https://github.com/D3KRISH/",
-  "success_url": "https://t.me/D3VIL_SUPPORT",
+  "repository": "https://github.com/utkarshdubey2008/ALPHA-X-USERBOT/",
+  "website": "https://github.com/ADARSHBOTMAKER/",
+  "success_url": "https://t.me/ALPHA_BOT_SUPPORT",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -21,7 +21,7 @@
     },
     "YOUR_NAME": {
       "description": "Fill Your Telegram Name. Default Value is 𝔡3𝔳𝔦𝔩",
-      "value": "『ȶꭉᶏꬺ ɖ3ⱱᶖȴ』",
+      "value": "『TEAM ALPHA』",
       "required": false
     },
     "ALIVE_MSG": {
@@ -55,11 +55,11 @@
     },
     "EMOJI_IN_HELP": {
       "description": "A emoji to display in help command",
-      "value": "✘"
+      "value": "💩"
     },
     "BUTTONS_IN_HELP": {
       "description": "No.of buttons to display in help menu.",
-      "value": "7"
+      "value": "9"
     },
     "PM_PERMIT": {
       "description": "Fill DISABLE to turn off pm permit.",
