@@ -13,7 +13,7 @@
  
 ## 🚀 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮 
 - 𝙶𝚎𝚝 𝙰𝚕𝚕 𝚃𝚑𝚎 𝙽𝚎𝚌𝚎𝚜𝚜𝚊𝚛𝚢 𝚅𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜 𝙰𝚗𝚍 𝙳𝚎𝚙𝚕𝚘𝚢 𝚃𝚘 𝙷𝚎𝚛𝚘𝚔𝚞.
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/utkarsh2008/alpha_x_userbot)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/utkarshdubey2008/alpha_x_userbot)
 
 ----
 ### 𝐃3𝐕𝐈𝐋𝐁𝐎𝐓_𝐒𝐄𝐒𝐒𝐈𝐎𝐍
